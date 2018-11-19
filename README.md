@@ -1,5 +1,5 @@
 # Projeto para comercializar produtos organicos. #
-# Em fase de desenvolvimento#
+# Em fase de desenvolvimento #
 
 O projeto teve inicio no ano de 2018 e foi criado pelos desenvolvedores: 
 - [Moises Reichert](https://www.facebook.com/motz182)
